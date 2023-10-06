@@ -1,0 +1,34 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "project title 1 ,jkh",
+      "detail": "project detail 1",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "project title 2 kjjkhj",
+      "detail": "project detail 2",
+      "complete": false
+    },
+    {
+      "id": 3,
+      "title": "project title 3 i[ddsf",
+      "detail": "project detail 3 dkjfddf",
+      "complete": false
+    },
+    {
+      "title": "Mongo",
+      "detail": "lorem para",
+      "complete": false,
+      "id": 4
+    },
+    {
+      "title": "Test 1 Project update",
+      "detail": "Description of the paragraph ",
+      "complete": false,
+      "id": 5
+    }
+  ]
+}
